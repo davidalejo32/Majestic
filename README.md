@@ -1,6 +1,6 @@
 ## Majestic
 
-Ecomer hecho con  **Html y Css**.
+Ecomerce hecho con  **Html y Css**.
 
 ### Practica
  - Html semantico 
