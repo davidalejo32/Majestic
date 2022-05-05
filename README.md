@@ -1,2 +1,8 @@
-# Majestic
-E-commerce made with html and CSS
+## Majestic
+
+Ecomer hecho con  **Html y Css**.
+
+### Practica
+ - Html semantico 
+ - Css 
+ - Media queries
